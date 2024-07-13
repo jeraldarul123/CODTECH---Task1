@@ -22,3 +22,4 @@ Deploy a scalable and secure web application on an AWS EC2 instance, ensuring hi
 
 ###project screenshot
 
+![EC2 Instance Connect _ us-east-1 - Google Chrome 7_13_2024 1_30_21 PM](https://github.com/user-attachments/assets/07fed345-f086-4d17-990d-de6f70f8f403)
