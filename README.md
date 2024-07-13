@@ -21,4 +21,4 @@ Deploy a scalable and secure web application on an AWS EC2 instance, ensuring hi
 3.enabled the httpd through the linux terminal
 
 ###project screenshot
-"C:\Users\DELL\Videos\Captures\EC2 Instance Connect _ us-east-1 - Google Chrome 7_13_2024 1_30_21 PM.png"
+
