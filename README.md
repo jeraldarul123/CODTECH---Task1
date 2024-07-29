@@ -1,5 +1,3 @@
-Certainly! Here's a reformatted version of the project details with the new line added:
-
 ---
 
 **Name:** JERALD ARUL.A  
@@ -26,5 +24,3 @@ Deploy a scalable and secure web application on an AWS EC2 instance, ensuring hi
 ![EC2 Instance Connect _ us-east-1 - Google Chrome 7_13_2024 1_30_21 PM](https://github.com/user-attachments/assets/07fed345-f086-4d17-990d-de6f70f8f403)
 
 ---
-
-Feel free to adjust any details as needed!
